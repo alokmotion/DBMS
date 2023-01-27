@@ -39,3 +39,10 @@ A table does not contain more than one primary key. <br>
 5. Foreign Key --->  A foreign key is the one that is used to link two tables together via the primary key. It means the columns of one table points to the primary key attribute of the other table. <br>
  
  </P>
+ 
+ 
+ 
+ <h5> SQL </h5>
+  <P> 
+ 1. WAQ to bring all data from Customers Table.  </P>
+
