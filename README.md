@@ -41,7 +41,13 @@ A table does not contain more than one primary key. <br>
  </P>
  
  
+ <hr>
+ <h2> Normalization </h2>
  
+ 
+ 
+ ---------------------------------------------------------------------------
+ <hr>
  <h5> SQL </h5>
   <P> 
  1. WAQ to bring all data from Customers Table.  </P>
