@@ -44,7 +44,10 @@ A table does not contain more than one primary key. <br>
  <hr>
  <h2> Normalization </h2>
  
+ <p>
+ Normalization is the process of minimizing redundancy from a relation or set of relations.
  
+ </p>
  
  ---------------------------------------------------------------------------
  <hr>
