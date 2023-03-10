@@ -54,4 +54,8 @@ A table does not contain more than one primary key. <br>
  <h5> SQL </h5>
   <P> 
  1. WAQ to bring all data from Customers Table.  </P>
+ 
+ 
+ <h2> What is meant by ACID properties in DBMS?
+</h2>
 
